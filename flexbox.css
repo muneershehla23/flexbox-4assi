@@ -1,0 +1,67 @@
+.logo{
+    width: 80px;
+}
+.headerleft{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.headerright{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    margin: 0px 24px 0px 0px;
+}
+.button2{
+    background-color: #60206A;
+    color: white;
+    padding: 5px 18px 5px 18px;
+    border-radius: 2px;
+}
+.button1{
+    background-color: white;
+    border: 2px white;
+}
+.img{
+    width: 520px;
+    ;
+}
+.head2{
+    background-color: #F7F0E7;
+    align-items: center;
+}
+.bodyleft{
+    display: flex;
+    justify-items: center;
+    flex-wrap: wrap;
+    margin: 0px 0px 150px 0px;
+    margin-left: 20px;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.mainpara{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;}
+    .button3{
+        background-color: #60206A;
+        color: white;
+        padding: 10px 50px 10px 50px;
+        border-radius: 2px;
+    }
+    .button4{
+        background-color: white;
+        color: #60206A;
+        border: 2px solid #60206A;
+        padding: 10px 40px 10px 40px;
+        border-radius: 3px;
+    }
+    .buttons{
+        gap: 5px;
+    }
